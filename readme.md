@@ -1,5 +1,9 @@
 # 🎯 Sentiment Analysis using Multinomial Naive Bayes
 
+![Sentiment Analytics Using NLP](https://github.com/user-attachments/assets/c8331ed9-8959-4d20-b45d-70db5ba7eb3f)
+
+
+
 This project is an end-to-end implementation of a **Sentiment Analysis** model using the classic **Multinomial Naive Bayes** algorithm. It leverages the [IMDB Movie Review Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) for binary sentiment classification (`positive` / `negative`).
 
 ---
