@@ -45,7 +45,7 @@ nltk.download('stopwords')
 
 ---
 
-## 📊 Model Performance (Example)
+## 📊 Model Performance 
 
 | Metric        | Score     |
 |---------------|-----------|
@@ -91,8 +91,4 @@ predict_sentiment("This movie was absolutely wonderful and emotionally touching.
 This project is licensed under the MIT License.
 ```
 
----
 
-### **Q1:** How can you make the pipeline modular and reusable for other text classification problems?  
-**Q2:** What would be the steps to containerize this sentiment analysis model using Docker?  
-**Q3:** How can the current TF-IDF + Naive Bayes setup be scaled to handle millions of rows efficiently?
